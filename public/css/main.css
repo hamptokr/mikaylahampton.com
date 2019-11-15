@@ -1,0 +1,23 @@
+.bg-black {
+  background-color: black;
+}
+
+.bg-pink {
+  background-color: #ffe5e5;
+}
+
+.fg-pink {
+  color: #ffe5e5;
+}
+
+.fg-white {
+  color: white;
+}
+
+.selected-page {
+  border-bottom: 1px solid #ffe5e5;
+}
+
+.lg-text {
+  font-size: 42px;
+}
